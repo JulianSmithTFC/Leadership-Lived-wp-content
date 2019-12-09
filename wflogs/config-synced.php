@@ -1,0 +1,6 @@
+<?php exit('Access denied'); __halt_compiler(); ?>
+******************************************************************
+This file is used by the Wordfence Web Application Firewall. Read 
+more at https://docs.wordfence.com/en/Web_Application_Firewall_FAQ
+******************************************************************
+a:19:{s:6:"apiKey";s:160:"eeaedb939afecb5ed1374927f5b69f29e699538f8d22381826f789411536b59b2ba0a98a43e3d17311c004bd37297fe392c8dd90bab96c5b1930bfee92ac82ebdc823d9ae2baf9f565208bbd651d63b2";s:6:"isPaid";b:0;s:7:"siteURL";s:28:"http://techfusionproject.com";s:7:"homeURL";s:28:"http://techfusionproject.com";s:14:"whitelistedIPs";s:0:"";s:9:"howGetIPs";s:0:"";s:25:"howGetIPs_trusted_proxies";s:0:"";s:13:"pluginABSPATH";s:49:"/chroot/home/souther1/techfusionproject.com/html/";s:11:"other_WFNet";b:1;s:9:"serverIPs";s:18:"["207.32.178.106"]";s:15:"blockCustomText";s:0:"";s:13:"timeoffset_wf";s:1:"0";s:23:"advancedBlockingEnabled";s:1:"1";s:21:"betaThreatDefenseFeed";b:0;s:20:"disableWAFIPBlocking";s:1:"0";s:13:"patternBlocks";s:2:"[]";s:13:"countryBlocks";s:153:"{"blocks":[],"action":"block","loggedInBlocked":"","bypassRedirURL":"","bypassRedirDest":"","bypassViewURL":"","redirURL":"","cookieVal":"5b7d64b68915b"}";s:11:"otherBlocks";s:33:"{"blockedTime":"300","blocks":[]}";s:8:"lockouts";s:37:"{"lockedOutTime":14400,"lockouts":[]}";}
